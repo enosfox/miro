@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
 :root {
+    --body-bg2: radial-gradient(#ffffff, #929292);
     --body-bg: radial-gradient(#393939, #000000);
     --border: 0.5px solid rgb(255 255 255 / 32%);
     --border-radius: 1rem;

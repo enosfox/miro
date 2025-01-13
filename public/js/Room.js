@@ -418,18 +418,18 @@ function refreshMainButtonsToolTipPlacement() {
         setTippy('aboutButton', 'About this project', placement);
 
         // Bottom buttons
-        setTippy('toggleExtraButton', 'Toggle extra buttons', bPlacement);
-        setTippy('startAudioButton', 'Start the audio', bPlacement);
-        setTippy('stopAudioButton', 'Stop the audio', bPlacement);
-        setTippy('startVideoButton', 'Start the video', bPlacement);
-        setTippy('stopVideoButton', 'Stop the video', bPlacement);
-        setTippy('swapCameraButton', 'Swap the camera', bPlacement);
-        setTippy('startScreenButton', 'Start screen share', bPlacement);
-        setTippy('stopScreenButton', 'Stop screen share', bPlacement);
-        setTippy('raiseHandButton', 'Raise your hand', bPlacement);
-        setTippy('lowerHandButton', 'Lower your hand', bPlacement);
-        setTippy('chatButton', 'Toggle the chat', bPlacement);
-        setTippy('exitButton', 'Leave room', bPlacement);
+        setTippy('toggleExtraButton', 'Alternar botões extras', bPlacement);
+        setTippy('startAudioButton', 'Inicie o áudio', bPlacement);
+        setTippy('stopAudioButton', 'Pare o áudio', bPlacement);
+        setTippy('startVideoButton', 'Comece o vídeo', bPlacement);
+        setTippy('stopVideoButton', 'Pare o vídeo', bPlacement);
+        setTippy('swapCameraButton', 'Troque a câmera', bPlacement);
+        setTippy('startScreenButton', 'Iniciar compartilhamento de tela', bPlacement);
+        setTippy('stopScreenButton', 'Parar compartilhamento de tela', bPlacement);
+        setTippy('raiseHandButton', 'Levante a mão', bPlacement);
+        setTippy('lowerHandButton', 'Abaixe sua mão', bPlacement);
+        setTippy('chatButton', 'Alternar o bate-papo', bPlacement);
+        setTippy('exitButton', 'Encerrar ligação', bPlacement);
     }
 }
 
